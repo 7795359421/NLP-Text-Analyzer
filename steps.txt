@@ -1,0 +1,14 @@
+python --version
+ python -m venv venv
+ venv\Scripts\activate
+ streamlit run app.py
+
+ 
+
+My frend Rahul and me went to the park on 5th June. 
+We were very very hapy because it was our hollyday. 
+We played for 2 hours and then we ate 3 ice creams and and we drank juice also.
+ Rahul said his schol project is not done, so he will mail me at rahul123@gmail.com 
+ for help and contact us through 7899666008. 
+ I told him dont worry worry, we will finish it tommorow together together.
+
